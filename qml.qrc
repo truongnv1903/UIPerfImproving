@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>dynamicUI.qml</file>
+        <file>callLater.qml</file>
+        <file>dynamicList.qml</file>
+        <file>resolvingProperties.qml</file>
+        <file>propertyBindings.qml</file>
+        <file>sequenceType.qml</file>
+    </qresource>
+</RCC>
